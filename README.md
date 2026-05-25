@@ -1,4 +1,4 @@
-# Beyond Accuracy: A Climate-Aware Robustness Evaluation and Decision Support Framework for Crop Recommendation Systems 🌾🌦️
+# Beyond Accuracy: A Climate-Aware Robustness Evaluation and Decision Support Framework for Crop Recommendation Systems
 
 This repository contains the complete implementation codebase and research documentation for a climate-resilient agricultural decision support framework. While traditional crop recommendation models achieve near-perfect static accuracy on historical data, they lack insight into how predictions shift under environmental instability. This framework bridges that gap by stress-testing machine learning backbones against simulated climate changes.
 
